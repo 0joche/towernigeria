@@ -14,7 +14,7 @@ const slides = [
   {
     id: 1,
     image: Building1,
-    title: "From Foundation to Finish",
+    title: "From Inception to Completion",
     highlight: "Building Structures That Endure",
     cta: "Explore Our Services",
     link: "/services"
@@ -22,8 +22,8 @@ const slides = [
   {
     id: 2,
     image: Building2,
-    title: "Built on Discipline",
-    highlight: "Safe, reliable, and well-managed construction delivery",
+    title: "Building For The Future",
+    highlight: "Safe, reliable, and sustainable construction",
     cta: "Discover Our Approach",
     link: "/about"
   },
