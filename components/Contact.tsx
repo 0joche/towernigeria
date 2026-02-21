@@ -41,7 +41,7 @@ export default function ContactCTA() {
                 <Mail size={20} />
               </div>
               <div className="flex flex-col">
-                <span className="text-[10px] font-mono uppercase tracking-widest text-white/50 group-hover:text-white/80">Start a Conversation</span>
+                <span className="text-[10px] font-mono uppercase tracking-widest text-white/50 group-hover:text-white/80">Get In Touch</span>
                 <span className="font-bold tracking-tight">info@towernigeria.com</span>
               </div>
               <ArrowRight size={20} className="ml-4 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
@@ -56,7 +56,7 @@ export default function ContactCTA() {
                 <Phone size={18} />
                 <span className="font-mono text-[10px] uppercase tracking-widest text-slate-400">Direct Line</span>
               </div>
-              <p className="text-lg font-bold text-slate-900">+2349069101050 +2349133228324</p>
+              <p className="text-lg font-bold text-slate-900">+2349133228324</p>
             </div>
 
             {/* Location Info */}
@@ -73,7 +73,7 @@ export default function ContactCTA() {
               <p className="text-sm text-slate-400 leading-relaxed italic">
                 Tower Nigeria Limited, <br />
                 Building Structures  <br />
-               That Endure The Test of Time
+               That Endure The Test of Time.
               </p>
             </div>
           </div>
