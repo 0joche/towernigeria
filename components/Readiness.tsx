@@ -34,7 +34,7 @@ export default function Readiness() {
             
             <div className="bg-white p-8 border border-slate-200 rounded-sm">
               <p className="text-slate-600 text-sm md:text-base leading-relaxed italic">
-                "We understand the rigor of government funded projects from documentation and reporting to stakeholder coordination. Our disciplined approach ensures strict adherence to contract conditions and safety regulations."
+                "We understand the rigor of government funded projects from documentation and reporting to stakeholder coordination. Our approach ensures strict adherence to contract conditions and safety regulations."
               </p>
             </div>
           </div>
