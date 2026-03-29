@@ -17,21 +17,33 @@ const services = [
     tag: "Integrated"
   },
   {
-    title: "Construction & Infrastructure",
+    title: "Construction of Building & Infrastructure",
     description: "Reliable construction delivery for buildings and infrastructure, executed with discipline and safety.",
     icon: HardHat,
     tag: "Execution"
   },
   {
-    title: "Procurement & Supply",
+    title: "Procurement & Supply Chain Management",
     description: "Strategic sourcing of materials and services to safeguard cost, quality, and schedule.",
     icon: Truck,
-    tag: "Supply Chain"
+    tag: "Procurment"
   },
   {
-    title: "Project Management",
+    title: "Mechanical, Electrical & Plumbing (MEP)",
+    description: "Integrated building systems designed for performance, reliability, and long-term value.",
+    icon: Cog6,
+    tag: "Precision"
+  },
+  {
+    title: "Project Management Consultancy (PMC)",
     description: "Structured oversight that keeps projects on track and under control.",
     icon: ClipboardCheck,
+    tag: "Governance"
+  },
+  {
+    title: "Building Information Modelling (BIM)",
+    description: "Intelligent digital modelling that drives coordination, efficiency, and risk-free delivery.",
+    icon: CubeTransparent,
     tag: "Governance"
   },
 ];
