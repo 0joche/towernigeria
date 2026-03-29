@@ -9,7 +9,7 @@ const fullServices = [
   {
     number: "01",
     title: "Design & Build",
-    icon: <Settings size={24} />,
+    icon: <Settings size={15} />,
     description: "Tower Nigeria Limited provides integrated Design & Build solutions that combine architectural intent, engineering precision, and construction execution under one accountable structure.",
     details: "From concept development and detailed design through construction and commissioning, we ensure seamless coordination and accelerated delivery. Our approach aligns design decisions with construction realities to optimise cost, quality, and schedule performance.",
     tags: ["Architectural Intent", "Engineering Precision", "Interface Risk Reduction"]
