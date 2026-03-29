@@ -47,7 +47,7 @@ export default function AboutSection() {
             </h2>
             
             <p className="text-lg text-slate-600 leading-relaxed mb-10">
-              Tower Nigeria Limited is a construction company delivering reliable building and infrastructure solutions across the country. We specialise in Design & Build, Construction, Procurement, and Project Management, combining traditional construction discipline with modern project delivery practices.
+              Tower Nigeria Limited is a fully register construction company with registration number RC9239539 delivering reliable building and infrastructure solutions across the country. We specialise in Design & Build, Construction, Procurement, MEP, BIM, and Project Management, combining traditional construction discipline with modern digital project delivery practices.
             </p>
 
             <Link 
