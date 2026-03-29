@@ -8,7 +8,7 @@ import Link from 'next/link';
 const fullServices = [
   {
     number: "01",
-    title: "Design & Build Services",
+    title: "Design & Build",
     icon: <Settings size={24} />,
     description: "Tower Nigeria Limited provides integrated Design & Build solutions that combine architectural intent, engineering precision, and construction execution under one accountable structure.",
     details: "From concept development and detailed design through construction and commissioning, we ensure seamless coordination and accelerated delivery. Our approach aligns design decisions with construction realities to optimise cost, quality, and schedule performance.",
@@ -24,18 +24,34 @@ const fullServices = [
   },
   {
     number: "03",
-    title: "Procurement & Supply Management",
+    title: "Procurement & Supply Chain Management",
     icon: <Truck size={24} />,
     description: "Our procurement services protect project value through structured sourcing, supplier management, and logistics coordination.",
     details: "We manage materials, equipment, and specialist services with a focus on cost efficiency and transparency. By combining market knowledge with disciplined processes, we minimise supply risk and ensure technical alignment.",
     tags: ["Strategic Sourcing", "Logistics Coordination", "Cost Efficiency"]
   },
   {
+    number: "03",
+    title: "Mechanical, Electrical & Plumbing (MEP)",
+    icon: <Truck size={24} />,
+    description: "Our Mechanical, Electrical, and Plumbing (MEP) services provide comprehensive design, coordination, and implementation of essential building systems.",
+    details: "From HVAC and electrical distribution to plumbing and fire protection, we ensure all systems are optimized for performance, energy efficiency, and compliance with international standards. This approach guarantees that building systems function harmoniously, enhancing operational reliability and long-term asset value.",
+    tags: ["Detailed Design", "Expert Execution", "Precise Commissioning"]
+  },
+  {
     number: "04",
-    title: "Project Management",
+    title: "Project Management Consultancy (PMC)",
     icon: <ClipboardCheck size={24} />,
     description: "Tower Nigeria Limited provides hands on project management services that ensure works are executed safely and efficiently.",
     details: "We coordinate contractors, manage progress, control costs, and enforce quality acting as the client's reliable on site representative from mobilisation to handover, ensuring adherence to approved designs and schedules.",
+    tags: ["Contractor Coordination", "Progress Management", "Client Representation"]
+  },
+  {
+    number: "04",
+    title: "Building Imformation Modelling (BIM)",
+    icon: <ClipboardCheck size={24} />,
+    description: "At Tower Nigeria, our Building Information Modelling (BIM) services deliver intelligent, data-driven digital representations of project.",
+    details: "allowing for seamless collaboration, visualization, and informed decision-making throughout design, construction, and operations. By integrating multidisciplinary workflows, optimizing schedules and costs, and ensuring clash-free designs, BIM enables efficiency, accuracy, and risk reduction across every stage of a project.",
     tags: ["Contractor Coordination", "Progress Management", "Client Representation"]
   },
 ];
@@ -56,7 +72,7 @@ export default function ServicesPage() {
               <span className="text-slate-300 italic font-medium">Reliable Assets.</span>
             </h1>
             <p className="text-xl text-slate-500 max-w-2xl leading-relaxed">
-              Tower Nigeria Limited provides a comprehensive ecosystem of services designed to bring certainty to residential, commercial, and industrial construction environments.
+              Tower Nigeria Limited provides a robust ecosystem of expert services designed to bring certainty to residential, commercial, and industrial construction environments.
             </p>
           </div>
         </div>
