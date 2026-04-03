@@ -42,7 +42,7 @@ export default function Footer() {
               </Link>
               {/* Updated text color to blue-100 for better readability on dark background */}
               <p className="text-blue-100 text-sm leading-relaxed mb-8">
-                Building with strength. Delivering with integrity. A Construction company committed to reliable infrastructure and disciplined project execution.
+                Tower Nigeria Limited executes construction projects through structured planning, rigorous coordination, and uncompromising delivery standards, ensuring every project is completed with clarity, control, and lasting impact.
               </p>
               
               {/* Regional Status Indicator - Adjusted colors for dark bg */}
