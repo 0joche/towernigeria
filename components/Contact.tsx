@@ -23,13 +23,13 @@ export default function ContactCTA() {
 
             {/* Main Call to Action */}
             <h2 className="text-5xl md:text-7xl font-bold tracking-tight text-slate-900 mb-8">
-              Let’s build <br />
-              <span className="text-orange-400 italic font-medium">together.</span>
+              Tell Us <br />
+              <span className="text-orange-300 italic font-medium">About Your Project.</span>
             </h2>
 
             <p className="text-xl text-slate-500 max-w-xl mb-12 leading-relaxed">
-              Tower Nigeria Limited partners with clients seeking 
-              reliable construction delivery rooted in discipline and integrity.
+              Connect with Tower Nigeria Limited to deliver your next project with discipline, precision, and unwavering integrity. 
+              From concept to completion, we are committed to reliable execution and lasting value.
             </p>
 
             {/* High-Impact Email Button */}
