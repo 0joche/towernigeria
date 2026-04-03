@@ -65,7 +65,7 @@ export default function AboutAndServices() {
                 <span className="text-orange-400 italic font-medium">Our expertise.</span>
               </h1>
             </div>
-            <div className="lg:col-span-4">
+            <div className="p-8 md:p-12">
               <p className="text-xl text-slate-500 leading-relaxed border-l border-slate-200 pl-6">
                 Tower Nigeria Limited is a fully registered company with the Corporate Affairs Commission, holding Registration Number RC 9239539, operating at the forefront of the construction industry in Nigeria. 
                 We specialize in delivering end-to-end construction solutions, combining structured project management, technical expertise, and disciplined execution to create infrastructure that meets both client expectations and regulatory standards.
