@@ -5,7 +5,8 @@ import {
   Settings, 
   HardHat, 
   Truck, 
-  ClipboardCheck 
+  Cog.
+  ClipboardCheck, 
 } from "lucide-react";
 import Link from "next/link";
 
@@ -43,7 +44,7 @@ const services = [
   {
     title: "Building Information Modelling (BIM)",
     description: "Intelligent digital modelling that drives coordination, efficiency, and risk-free delivery.",
-    icon: CubeTransparent,
+    icon: Cog,
     tag: "Governance"
   },
 ];
