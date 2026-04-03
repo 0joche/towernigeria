@@ -15,11 +15,11 @@ export default function ContactPage() {
             <span>Project Inquiry</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-slate-900 mb-8">
-            Let's build <br />
-            <span className="text-orange-400 italic font-medium">with integrity.</span>
+            Your project <br />
+            <span className="text-orange-400 italic font-medium">our expertise, let’s get started.</span>
           </h1>
           <p className="text-xl text-slate-500 max-w-2xl leading-relaxed">
-            Tower Nigeria Limited partners with clients seeking reliable construction delivery rooted in discipline and professional workmanship.
+           Tower Nigeria Limited delivers construction excellence through disciplined execution and superior craftsmanship.
           </p>
         </div>
 
@@ -52,8 +52,10 @@ export default function ContactPage() {
                 <select className="w-full bg-slate-50 border-b border-slate-200 p-4 focus:border-orange-400 focus:outline-none transition-colors appearance-none">
                   <option>Building & Infrastructure Construction</option>
                   <option>Design & Build Services</option>
-                  <option>Procurement & Supply Management</option>
-                  <option>Project Management</option>
+                  <option>Procurement & Supply Chain Management</option>
+                   <option>Building Information Modelling (BIM)</option>
+                   <option>Mechanical, Electrical & Plumbing (MEP)</option>
+                  <option>Project Management Consultancy (PMC)</option>
                 </select>
               </div>
 
