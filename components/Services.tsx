@@ -51,7 +51,7 @@ const services = [
 
 export default function ServicesPage() {
   return (
-    <section id="services-summary" className="py-24 bg-[#FAFAFA] border-y border-slate-200">
+    <section id="services-summary" className="py-20 bg-[#FAFAFA] border-y border-slate-200">
       <div className="container mx-auto px-6">
         
         {/* Header Section */}
