@@ -17,14 +17,14 @@ export default function ContactCTA() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
               </span>
               <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-slate-400">
-                Currently accepting project inquiries
+                If you are serious about building right, this is where you start.
               </span>
             </div>
 
             {/* Main Call to Action */}
             <h2 className="text-5xl md:text-7xl font-bold tracking-tight text-slate-900 mb-8">
               Tell Us <br />
-              <span className="text-orange-300 italic font-medium">About Your Project.</span>
+              <span className="text-orange-400 italic font-medium">About Your Project.</span>
             </h2>
 
             <p className="text-xl text-slate-500 max-w-xl mb-12 leading-relaxed">
@@ -56,7 +56,7 @@ export default function ContactCTA() {
                 <Phone size={18} />
                 <span className="font-mono text-[10px] uppercase tracking-widest text-slate-400">Direct Line</span>
               </div>
-              <p className="text-lg font-bold text-slate-900">+2349133228324</p>
+              <p className="text-lg font-bold text-slate-900">09133228324, 09069101050</p>
             </div>
 
             {/* Location Info */}
@@ -72,8 +72,8 @@ export default function ContactCTA() {
             <div className="pt-8 border-t border-slate-100">
               <p className="text-sm text-slate-400 leading-relaxed italic">
                 Tower Nigeria Limited, <br />
-                Building Structures  <br />
-               That Endure The Test of Time.
+                Shaping Nigeria's  <br />
+               Skyline.
               </p>
             </div>
           </div>
