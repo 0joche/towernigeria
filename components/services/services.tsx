@@ -52,7 +52,7 @@ const fullServices = [
     icon: <ClipboardCheck size={24} />,
     description: "At Tower Nigeria, our Building Information Modelling (BIM) services deliver intelligent, data-driven digital representations of project.",
     details: "allowing for seamless collaboration, visualization, and informed decision-making throughout design, construction, and operations. By integrating multidisciplinary workflows, optimizing schedules and costs, and ensuring clash-free designs, BIM enables efficiency, accuracy, and risk reduction across every stage of a project.",
-    tags: ["Contractor Coordination", "Progress Management", "Client Representation"]
+    tags: ["Clash Detection", "4D Planning", "5D, 6D & 7D Modelling"]
   },
 ];
 
