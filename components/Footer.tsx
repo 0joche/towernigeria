@@ -9,13 +9,15 @@ const footerLinks = {
     { name: "Design & Build", href: "/services" },
     { name: "Infrastructure", href: "/services" },
     { name: "Procurement", href: "/services" },
+    { name: "Mechanical, Electrical & Plumbing (MEP)", href: "/services" },
+    { name: "Building Information Modelling (BIM)", href: "/services" },
     { name: "Project Management", href: "/services" },
   ],
   company: [
     { name: "Who We Are", href: "/about" },
     { name: "Our Philosophy", href: "/about" },
-    { name: "Download Profile", href: "/about" },
-    { name: "Contact", href: "/contact" },
+    { name: "Explore Our Projects", href: "/about" },
+    { name: "Contact Us", href: "/contact" },
   ],
 };
 
@@ -47,7 +49,7 @@ export default function Footer() {
               <div className="inline-flex items-center gap-2 px-3 py-1.5 bg-blue-800/50 rounded-full border border-blue-700">
                 <span className="w-1.5 h-1.5 rounded-full bg-orange-400 animate-pulse" />
                 <span className="font-mono text-[10px] uppercase tracking-wider text-blue-200 font-semibold">
-                  Primary Region: Nigeria
+                  Primary Region: Abuja, Nigeria
                 </span>
               </div>
             </div>
@@ -89,7 +91,7 @@ export default function Footer() {
               <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-blue-300 mb-6">Corporate</p>
               <div className="flex gap-3">
                 {/* Updated borders and hover states */}
-                <Link href="#" className="p-2.5 border border-white rounded-sm hover:border-orange-400 transition-colors text-white hover:text-orange-400">
+                <Link href="https://www.linkedin.com/company/towernigeria/" className="p-2.5 border border-white rounded-sm hover:border-orange-400 transition-colors text-white hover:text-orange-400">
                   <Linkedin size={18} strokeWidth={1.5} />
                 </Link>
               </div>
@@ -100,7 +102,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-12 border-t border-blue-800 flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-[10px] font-mono uppercase text-blue-200 tracking-[0.15em]">
-            © {new Date().getFullYear()} Tower Nigeria Limited <span className="mx-2 text-blue-700">|</span> Reliable Construction
+            © {new Date().getFullYear()} Tower Nigeria Limited <span className="mx-2 text-blue-700">|</span> Shaping Nigeria's Skyline
           </p>
         </div>
       </div>
