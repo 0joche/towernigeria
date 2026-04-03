@@ -14,7 +14,7 @@ const services = [
   {
     title: "Design & Build",
     description: "Integrated design and construction solutions delivered under one accountable framework.",
-    icon: Settings,
+    icon: Plus,
     tag: "Integrated"
   },
   {
@@ -45,7 +45,7 @@ const services = [
     title: "Building Information Modelling (BIM)",
     description: "Intelligent digital modelling that drives coordination, efficiency, and risk-free delivery.",
     icon: Cog,
-    tag: "Governance"
+    tag: "Coordination"
   },
 ];
 
