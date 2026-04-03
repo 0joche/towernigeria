@@ -5,7 +5,7 @@ import {
   Settings, 
   HardHat, 
   Truck, 
-  Cog.
+  Cog,
   ClipboardCheck, 
 } from "lucide-react";
 import Link from "next/link";
