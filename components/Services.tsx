@@ -18,8 +18,8 @@ const services = [
     tag: "Integrated"
   },
   {
-    title: "Construction of Building & Infrastructure",
-    description: "Reliable construction delivery for buildings and infrastructure, executed with discipline and safety.",
+    title: "Building & Infrastructure",
+    description: "Sustainable construction delivery for buildings and infrastructure, executed with discipline, quality and safety.",
     icon: HardHat,
     tag: "Execution"
   },
@@ -51,7 +51,7 @@ const services = [
 
 export default function ServicesPage() {
   return (
-    <section id="services-summary" className="py-20 bg-[#FAFAFA] border-y border-slate-200">
+    <section id="services-summary" className="py-24 bg-[#FAFAFA] border-y border-slate-200">
       <div className="container mx-auto px-6">
         
         {/* Header Section */}
