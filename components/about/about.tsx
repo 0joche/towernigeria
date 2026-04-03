@@ -61,13 +61,14 @@ export default function AboutAndServices() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-end">
             <div className="lg:col-span-8">
               <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-slate-900 leading-[0.9]">
-                Method over <br />
-                <span className="text-orange-400 italic font-medium">improvisation.</span>
+                Your vision <br />
+                <span className="text-orange-400 italic font-medium">Our expertise.</span>
               </h1>
             </div>
             <div className="lg:col-span-4">
               <p className="text-xl text-slate-500 leading-relaxed border-l border-slate-200 pl-6">
-                Construction excellence is achieved through preparation and accountability. We reduce risk and deliver predictable outcomes by respecting proven practices.
+                Tower Nigeria Limited is a fully registered company with the Corporate Affairs Commission, holding Registration Number RC 9239539, operating at the forefront of the construction industry in Nigeria. 
+                We specialize in delivering end-to-end construction solutions, combining structured project management, technical expertise, and disciplined execution to create infrastructure that meets both client expectations and regulatory standards.
               </p>
             </div>
           </div>
@@ -86,13 +87,14 @@ export default function AboutAndServices() {
                 </span>
               </div>
               <h2 className="text-4xl md:text-5xl font-semibold tracking-tight mb-8">
-                Reliable solutions <br />
+                Sustainable solutions <br />
                 <span className="text-slate-400">built to last.</span>
               </h2>
             </div>
             <div className="bg-orange-500 p-8 md:p-12 border border-white/10 backdrop-blur-sm">
               <p className="text-lg md:text-xl text-white leading-relaxed">
-                To deliver building and infrastructure solutions across Nigeria that combine traditional construction discipline with modern project delivery, ensuring every asset is structurally sound and economically viable.
+                Our mission is to provide exceptional project delivery across commercial, residential, and industrial sectors, guided by a commitment to professionalism, accountability, and operational excellence.
+                At Tower Nigeria Limited, we believe that every project is an opportunity to demonstrate precision, reliability, and a steadfast dedication to quality, ensuring that each structure we build stands the test of time.
               </p>
             </div>
           </div>
@@ -134,7 +136,7 @@ export default function AboutAndServices() {
                 Commitment
               </p>
               <p className="text-white text-lg font-medium">
-                We do not chase shortcuts ,we build correctly, responsibly, and for the long term.
+                We deliver projects with responsibility, accuracy, and enduring quality.
               </p>
             </div>
           </div>
@@ -147,7 +149,7 @@ export default function AboutAndServices() {
       <section className="py-24 text-white bg-[#0A2540]">
         <div className="container mx-auto px-6 text-center">
           <h3 className="text-3xl md:text-4xl font-bold mb-10 tracking-tight">
-            Ready to begin your project?
+            Start Your Project Today!
           </h3>
           <Link 
             href="/contact" 
