@@ -31,7 +31,7 @@ const services = [
   {
     title: "Mechanical, Electrical & Plumbing (MEP)",
     description: "Integrated building systems designed for performance, reliability, and long-term value.",
-    icon: Cog,
+    icon: Settings,
     tag: "Precision"
   },
   {
